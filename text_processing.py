@@ -18,4 +18,4 @@ pt_br_stop_words = ['de', 'a', 'o', 'que', 'e', 'do', 'da', 'em', 'um', 'para', 
                     'serão', 'seria', 'seríamos', 'seriam', 'tenho', 'tem', 'temos', 'tém', 'tinha', 'tínhamos',
                     'tinham', 'tive', 'teve', 'tivemos', 'tiveram', 'tivera', 'tivéramos', 'tenha', 'tenhamos',
                     'tenham', 'tivesse', 'tivéssemos', 'tivessem', 'tiver', 'tivermos', 'tiverem', 'terei', 'terá',
-                    'teremos', 'terão', 'teria', 'teríamos', 'teriam']
+                    'teremos', 'terão', 'teria', 'teríamos', 'teriam', 'https', 'http', 'mano', 'vídeo', 'co', 'rt']
